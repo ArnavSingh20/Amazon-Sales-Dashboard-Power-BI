@@ -106,7 +106,7 @@ The dashboard enables stakeholders to make data-driven decisions by identifying 
 
 ## 📷 Dashboard Preview
 
-![Amazon Sales Dashboard](./dashboard_screenshot.png)
+![Amazon Sales Dashboard](./Dashboard/Screenshot.png)
 ---
 
 ## 🚀 How to Use
